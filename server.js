@@ -13,6 +13,7 @@ app.get('/code/challenge', function(req, res) {
 	res.json({
 		"email": "oweismo.applicant@gmail.com",
 		"website": "https://github.com/Protometheus/zesty-node",
+		"github_repo_link": "https://github.com/Protometheus/zesty-node",
 		"name": {
 			"first": "Mohammad",
 			"last": "Oweis"
