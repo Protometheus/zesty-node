@@ -17,7 +17,8 @@ app.get('/code/challenge', function(req, res) {
 		"name": {
 			"first": "Mohammad",
 			"last": "Oweis"
-		}});
+		}
+	});
 })
 
 app.listen(process.env.PORT || 5000)
